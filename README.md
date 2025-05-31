@@ -1,2 +1,1 @@
-the goal of this program is to make the cpu wait before printing the input that the user enters into the command line. This is a form of cpu controle.
-if the user enters nothing than an error message is output
+this program is a small and simple way of conroling your computers cpu. How it works is that it makes your cpu wait a certain amount of time to produce the output of the program. In this case we make it wait 10 seconds to produce the output at the terminal instead of immediately as the program is run.
