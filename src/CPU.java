@@ -41,3 +41,14 @@ public class CPU {
     }
 
 }
+
+//A CPU (Central Processing Unit) is the brain of a computer. It’s the chip that executes instructions and performs calculations, moving data, 
+//running programs, and making decisions based on logic.
+/*
+Here’s what the CPU handles in every program:
+
+Fetch – Get the next instruction from memory.
+Decode – Figure out what the instruction is asking.
+Execute – Carry it out (e.g., add numbers, move data, jump somewhere).
+Repeat – Billions of times per second.
+*/
